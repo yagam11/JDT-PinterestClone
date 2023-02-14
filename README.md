@@ -1,3 +1,3 @@
 # JDT-PinterestClone
-A Pinterest clone project :)
+A Pinterest clone project :)\n
 Still in progress...
